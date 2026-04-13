@@ -1,3 +1,4 @@
+# the code shows the divisibles of both 5 and 11
 num = int(input("Enter a number : "))
 if num%5==0:
     if num%11==0:
