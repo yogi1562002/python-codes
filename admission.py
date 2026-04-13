@@ -1,3 +1,4 @@
+# here this code will says the eligibility for admission using age and marks 
 age = int(input("Enter your age : "))
 marks = int(input("Enter your marks : "))
 if age>=18:
