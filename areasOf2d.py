@@ -1,3 +1,4 @@
+# By using this code we can find the ares and perimeters of a 2d figires 
 print("""(1).kite
 (2).trapezium
 (3).parallelogram
